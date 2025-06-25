@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Adiam from Eritrea 🇪🇷</h1>
 <p align="center">Backend & Frontend Developer | Engineer | Tech Explorer</p>
-![](https://github.com/adiam7/adiam7/blob/master/icons/banner.png)
+
 ---
 
 ## 👨‍💻 About Me
@@ -87,5 +87,5 @@ I'm a passionate backend and full stack developer experienced in building secure
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adiam-015004231)
 
 ---
-
+<!-- ![](https://github.com/adiam7/adiam7/blob/master/icons/banner.png) -->
 > “Make everything as simple as possible, but not simpler.” – Albert Einstein
