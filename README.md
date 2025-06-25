@@ -1,7 +1,7 @@
 <!-- GitHub Profile README.md -->
 
-<h1 align="center">Hi 👋, I'm Adiam from Eritrea 🇪🇷</h1>
-<p align="center">Backend & Frontend Developer | Engineer | Tech Explorer</p>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> I'm Adiam 🇪🇷</h1>
+<p align="center"> :computer: Engineer | Developer  | Tech Explorer</p>
 
 ---
 
@@ -10,9 +10,10 @@
 I'm a passionate backend and full stack developer experienced in building secure, scalable, and maintainable applications using modern technologies.
 
 - 🧠 Always learning: AI, ML, Deep Learning  
-- 🛠️ Building: Web APIs, Enterprise Solutions, Intelligent Systems  
-- 👯 Looking to collaborate on: **Machine Learning & Backend Projects**  
-- 🔭 Currently working on: **SELSA Project**  
+- 🛠️ Building: Web APIs, Enterprise Solutions, Intelligent Systems
+- 🚀 Always upskilling, updating and progressing
+- 👯 Looking to collaborate on: Machine Learning & Backend Projects  
+- 🔭 Currently working on: SELSA Project  
 - ⚡ Fun Fact: I enjoy clean code and designing as much as debugging 😄  
 
 ---
@@ -71,6 +72,7 @@ I'm a passionate backend and full stack developer experienced in building secure
 ![Unix/Linux](https://img.shields.io/badge/Unix/Linux-333333?style=flat&logo=linux&logoColor=white)
 
 ---
+
 <!--
 ## 📊 GitHub Stats
 
@@ -80,12 +82,15 @@ I'm a passionate backend and full stack developer experienced in building secure
 </p>
 
 -->
-
 ## 🌐 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adiam.09me@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adiam-015004231)
 
 ---
+
 <!-- ![](https://github.com/adiam7/adiam7/blob/master/icons/banner.png) -->
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="Coder GIF">
+
 > “Make everything as simple as possible, but not simpler.” – Albert Einstein
