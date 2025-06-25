@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Adiam from Eritrea 🇪🇷</h1>
 <p align="center">Backend & Frontend Developer | Engineer | Tech Explorer</p>
-
+![](https://github.com/adiam7/adiam7/blob/master/icons/banner.png)
 ---
 
 ## 👨‍💻 About Me
